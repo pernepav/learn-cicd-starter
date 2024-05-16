@@ -25,7 +25,7 @@ type apiConfig struct {
 var staticFiles embed.FS
 
 func unused() {
-  // unused function
+	// unused function
 }
 
 func main() {
